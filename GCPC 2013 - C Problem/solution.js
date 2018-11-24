@@ -1,3 +1,8 @@
+/*
+This is a solution for Problem C taken from (GCPC 2013).
+Author - Abdelmajid Abdellatif
+*/
+
 //Dependencies 
 const readline = require('readline');
 
